@@ -1,6 +1,6 @@
 # Hey, I'm Shiwani Kumari! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shi-wal&label=Views&color=blue&style=plastic" alt="shi-wal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdesignershil&label=Views&color=blue&style=plastic" alt="webdesignershi" /> </p>
 
 <!-- <a href="https://twitter.com/shiwanil">
   <img align="left" alt="Shiwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,8 +29,8 @@
 
 
 
-[![LinkedIn: pallavi](https://img.shields.io/badge/-pallavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/pallavi-singh-95a394172/)
-[![GitHub: pallavi](https://img.shields.io/github/followers/pallavisingh2500?label=follow&style=social)](https://github.com/pallavisingh2500)
+[![LinkedIn: shiwani](https://img.shields.io/badge/-shiwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiwani/)]( https://www.linkedin.com/in/shiwani-kumari-581394172/)
+[![GitHub: shiwani](https://img.shields.io/github/followers/webdesignershi?label=follow&style=social)](https://github.com/webdesignershi)
 
 
 ### Languages and Tools:
@@ -45,11 +45,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-<a href="https://github.com/pallavisingh2500">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallavisingh2500&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/webdesignershi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdesignershi&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/webdesignershi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavisingh2500&show_icons=true&theme=dark&line_height=27" alt="Shivangi's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=webdesignershi&show_icons=true&theme=dark&line_height=27" alt="Shivangi's github stats"/>
 </a>
 
 
