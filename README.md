@@ -20,7 +20,7 @@
 <br/>
 
 
-- 🎓 I'm currently pursuing B.tech. in Computer Science & Engineering and expect to be graduated in 2022.
+- 🎓 I'm completed my B.tech. in Computer Science & Engineering june 2022.
 - 🌱 I’m curious in learning more about technology.
 - 🤔 I’m looking for opportunities to furnish my both hard & soft skills.
 - 💬 Ask me about Web Development & c++ Programming or any tech related stuff.
